@@ -5,7 +5,7 @@
 
 SCRAPING METHOD FACEBOOK
 --------|
-![]()
+![](https://github.com/Xenz404/Method-Facebook/blob/main/Screenshot_20230201-073200.jpg)
 #### ★ Social Accounts ★
 <a href="https://m.facebook.com/inu.pembangkang.7"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="75" height="75"></a><a href="https://wa.me/6283138613993?text=Assalamualaikum+Warohmatullahi+wabaokatuh">
 #### _ Install _
