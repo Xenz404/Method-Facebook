@@ -15,6 +15,8 @@ pkg install python
 pkg install git
 pip install requests
 pip install bs4
+pip install pycryptodome
+termux-setup-storage
 git clone https://github.com/Xenz404/Method-Facebook
 cd Method-Facebook
 python Run.py
